@@ -67,7 +67,7 @@
     "redux-thunk": "^2.2.0",
     "rsvp": "^4.8.3",
     "spanan": "^2.0.0",
-    "ua-parser-js": "^0.7.17",
+    "ua-parser-js": "^0.7.24",
     "underscore": "^1.8.3",
     "underscore-template-loader": "^1.0.0",
     "url-search-params": "^0.10.2",
